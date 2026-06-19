@@ -1,23 +1,21 @@
 # Java DSA Solutions
 
-Collection of Data Structures & Algorithms solutions implemented in Java.
+This repository contains my solutions to Data Structures and Algorithms problems implemented in Java.
 
-## 📚 Topics Covered
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
+## Topics Covered
+- Basics
+- Arrays & Strings
+- Sorting & Searching
+- Recursion & Backtracking
+- Linked List
+- Stack & Queue
+- Trees & Graphs
 - Dynamic Programming
 
-## 🚀 Platforms
-- LeetCode
-- TakeUForward
-- Apna College
-- GeeksForGeeks
+## Goal
+- Strengthen problem-solving skills
+- Build consistency in coding
+- Prepare for technical interviews
 
-## 🎯 Goal
-Solve 100+ DSA problems consistently and strengthen problem-solving skills.
-
-## 🛠️ Language
+## Language
 - Java
