@@ -15,3 +15,10 @@ public class CharacterPattern {
         }
     }
 }
+
+
+
+Output- A
+        BC
+        DEF
+        GHIJ
