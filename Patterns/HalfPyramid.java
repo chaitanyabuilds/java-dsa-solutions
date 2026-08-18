@@ -13,3 +13,10 @@ public class HalfPyramid {
         }
     }
 }
+
+
+
+Output- 1
+        12
+        123
+        1234
